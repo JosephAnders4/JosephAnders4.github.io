@@ -1,0 +1,67 @@
+body {
+	background-color: green;
+}
+
+h1 {
+	color: blue;
+	margin-left: 15px;
+}
+
+h2 {
+	color: red;
+	margin-left: 15px;
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+#menudiv {
+	background-color: gray;
+	border-style: dotted;
+	border-color: blue;
+}
+
+#titlediv {
+	background-color: orange;
+	border-style: solid;
+	border-color: blue;
+}
+
+#subtitlediv {
+	background-color: blue;
+	border-style: solid;
+	border-color: orange;
+}
+
+#subdiv {
+	background-color: red;
+	border-style: solid;
+	border-color: purple;
+}
+
+#codediv {
+	background-color: grey;
+	border-style: solid;
+	border-color: black;
+}
+
+#linecolpurple {
+	color: purple;
+	margin-left: 0px;
+}
+
+#imgdiv {
+	border-style: solid;
+	border-color: orange;
+	width: 426px;
+	height: 355px;
+}
+
+#listdiv {
+	color: brown;
+	background-color: gray;
+	border-style: dotted;
+	border-color: black;
+}
